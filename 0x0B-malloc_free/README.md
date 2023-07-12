@@ -1,0 +1,1 @@
+https://github.com/teddy004/alx-low_level_programming/blob/main/0x0B-malloc_free/README.md#0-create_arrayc https://github.com/teddy004/alx-low_level_programming/blob/main/0x0B-malloc_free/README.md#1-strdupc
