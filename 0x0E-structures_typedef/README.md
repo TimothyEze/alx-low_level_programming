@@ -1,0 +1,1 @@
+https://github.com/teddy004/alx-low_level_programming/blob/main/0x0E-structures_typedef/README.md#file-dogh https://github.com/teddy004/alx-low_level_programming/blob/main/0x0E-structures_typedef/README.md#file-1-init_dogc
